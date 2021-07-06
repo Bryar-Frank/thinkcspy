@@ -151,8 +151,8 @@ In PyCharm, your debugging tool will look like this:
 
     Figure 10
 
-For more information on PyCharm debugging, you can follow ‘this link
-<https://www.jetbrains.com/help/pycharm/part-1-debugging-python-code.html#step>__’.
+For more information on PyCharm debugging, you can follow `this link
+<https://www.jetbrains.com/help/pycharm/part-1-debugging-python-code.html#step>`_.
 Your debugging button will give you options for more tools, like “step-through”, 
 which allows you to go through the code line by line. This usually allows for 
 easier error-finding.
