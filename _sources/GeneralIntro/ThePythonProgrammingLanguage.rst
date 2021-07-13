@@ -114,8 +114,7 @@ most programs are more interesting than this one.
 
 .. admonition:: Want to learn more about Python?
 
-	If you would like to learn more about installing and using Python, here are some video links.
-	`Installing Python for Windows <http://youtu.be/9EfGpN1Pnsg>`__ shows you how to install the Python environment under
+	If you would like to learn more about installing and using Python, we have step-by-step instructions for `Using Python in an IDE <https://runestone.academy/runestone/books/published/thinkcspy/Appendices/usingIDE.html>`__. Also, here are some other links that may help.	`Installing Python for Windows <http://youtu.be/9EfGpN1Pnsg>`__ shows you how to install the Python environment under
 	Windows Vista,
 	`Installing Python for Mac <http://youtu.be/MEmEJCLLI2k>`__ shows you how to install under Mac OS/X, and
 	`Installing Python for Linux <http://youtu.be/RLPYBxfAud4>`__ shows you how to install from the Linux
